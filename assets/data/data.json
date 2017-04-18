@@ -1,0 +1,17 @@
+{
+  "assets": {
+    "background": { "type": "image", "path": "assets/img/BG.png" },
+    "spin_enabled": { "type": "image", "path": "assets/img/BTN_Spin.png" },
+    "spin_disabled": { "type": "image", "path": "assets/img/BTN_Spin_d.png" },
+    "symbol1": { "type": "image", "path": "assets/img/SYM1.png" },
+    "symbol2": { "type": "image", "path": "assets/img/SYM3.png" },
+    "symbol3": { "type": "image", "path": "assets/img/SYM4.png" },
+    "symbol4": { "type": "image", "path": "assets/img/SYM5.png" },
+    "symbol5": { "type": "image", "path": "assets/img/SYM6.png" },
+    "symbol6": { "type": "image", "path": "assets/img/SYM7.png" },
+    "tune": { "type": "sound", "path": "assets/sounds/background_music.wav" },
+    "tick": { "type": "sound", "path": "assets/sounds/tick.wav" },
+    "win": { "type": "sound", "path": "assets/sounds/win.wav" },
+    "fail": { "type": "sound", "path": "assets/sounds/fail.wav" }
+  }
+}
